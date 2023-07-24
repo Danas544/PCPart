@@ -31,6 +31,27 @@ class TestPCPartDatabase(unittest.TestCase):
         all_parts = self.database.get_all_parts()
         self.assertEqual(len(all_parts), 4)
 
+    def test_update_part_price_existing(self):
+        part_name = "Intel i7"
+        new_price = 320.0
+
+        cpu = self.database.get_part(part_name)
+        original_price = cpu.get_price()
+
+        self.database.update_part_price(part_name, new_price)
+
+        updated_cpu = self.database.get_part(part_name)
+        self.assertEqual(updated_cpu.get_price(), new_price)
+        self.assertNotEqual(updated_cpu.get_price(), original_price)
+
+    def test_update_part_price_nonexistent(self):
+        part_name = "No Part"
+        new_price = 400.0
+
+        self.database.update_part_price(part_name, new_price)
+
+        part = self.database.get_part(part_name)
+        self.assertIsNone(part)
 
 if __name__ == "__main__":
     unittest.main()
