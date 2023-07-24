@@ -1,0 +1,291 @@
+2023-07-24 19:07:35 - INFO - __main__ - Added Intel i7 to the database.
+2023-07-24 19:07:35 - INFO - __main__ - Added AMD Ryzen 5 to the database.
+2023-07-24 19:07:35 - INFO - __main__ - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:07:35 - INFO - __main__ - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:07:35 - INFO - __main__ - Updated the price of Intel i7 to 3000.
+2023-07-24 19:09:49 - INFO - main.py - __main__ - Added Intel i7 to the database.
+2023-07-24 19:09:49 - INFO - main.py - __main__ - Added AMD Ryzen 5 to the database.
+2023-07-24 19:09:49 - INFO - main.py - __main__ - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:09:49 - INFO - main.py - __main__ - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:09:49 - INFO - main.py - __main__ - Updated the price of Intel i7 to 3000.
+2023-07-24 19:10:14 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:10:14 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:10:14 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:10:14 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:10:14 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:11:56 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:11:56 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:11:56 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:11:56 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:11:56 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:11:56 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:23:34 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:23:34 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:23:34 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:23:34 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:23:34 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:24:23 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:24:23 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:24:23 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:24:23 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:24:23 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:26:00 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:26:00 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:26:00 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:26:00 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:26:00 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:26:00 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:26:43 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:26:43 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:26:43 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:26:43 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:26:43 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:26:43 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:27:08 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:27:08 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:27:08 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:27:08 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:27:08 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:27:08 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:29:59 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:29:59 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:29:59 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:29:59 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:29:59 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:29:59 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:29:59 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:30:30 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:30:30 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:30:30 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:30:30 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:30:30 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:30:30 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:30:30 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:30:32 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:30:32 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:30:32 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:30:32 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:30:32 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:30:32 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:30:32 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:32:19 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:32:19 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:32:19 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:32:19 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:32:19 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:32:19 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:32:19 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:32:55 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:32:55 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:32:55 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:32:55 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:32:55 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:32:55 - WARNING - main.py - no gpu not found in the database.
+2023-07-24 19:32:55 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:35:00 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:35:00 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:35:00 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:35:00 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:35:00 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:35:00 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:35:00 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:36:43 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:36:43 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:36:43 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:36:43 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:36:43 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:36:43 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:36:43 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:36:58 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:36:58 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:36:58 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:36:58 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:36:58 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:36:58 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:36:58 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:37:32 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:37:32 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:37:32 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:37:32 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:37:32 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:37:32 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:37:32 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:37:33 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:37:33 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:37:33 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:37:33 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:37:33 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:37:33 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:37:33 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:37:41 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:37:41 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:37:41 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:37:41 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:37:41 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:37:41 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:37:41 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:38:45 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:38:45 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:38:45 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:38:45 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:38:45 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:38:45 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:38:45 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:39:06 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:39:06 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:39:06 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:39:06 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:39:06 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:39:06 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:39:06 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:39:13 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:39:13 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:39:13 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:39:13 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:39:13 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:39:13 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:39:13 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:39:15 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:39:15 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:39:15 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:39:15 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:39:15 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:39:15 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:39:15 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:39:47 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:39:47 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:39:47 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:39:47 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:39:47 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:39:47 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:39:47 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:40:19 - WARNING - main.py - no part not found in the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Updated the price of Intel i7 to 320.0.
+2023-07-24 19:40:19 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:40:19 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:40:19 - WARNING - main.py - No Part not found in the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:43:52 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:43:52 - WARNING - main.py - no part not found in the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Updated the price of Intel i7 to 320.0.
+2023-07-24 19:43:52 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:43:52 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:43:52 - WARNING - main.py - No Part not found in the database.
+2023-07-24 19:48:36 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 19:48:36 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 19:48:36 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 19:48:36 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 19:48:36 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 19:48:36 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 19:48:36 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:00:57 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:00:57 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:00:57 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:00:57 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:00:57 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:00:57 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:00:57 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:00:57 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:00:57 - INFO - main.py - Updated the brand of CPU 'Intel i9' to 'Intel i10 (NEW)'.
+2023-07-24 20:01:35 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:01:35 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:01:35 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:01:35 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:01:35 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:01:35 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:01:35 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:01:35 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:01:35 - INFO - main.py - Updated the brand of CPU 'Intel i9' to 'Danielaius CPU!!!!!!!!!'.
+2023-07-24 20:02:01 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:02:01 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:02:01 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:02:01 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:02:01 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:02:01 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:02:01 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:02:01 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:02:01 - INFO - main.py - Updated the brand of CPU 'Intel i9' to 'Danieliaus BRANDAS BLYN'.
+2023-07-24 20:03:50 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:03:50 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:03:50 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:03:50 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:03:50 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:03:50 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:03:50 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:03:50 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:03:50 - INFO - main.py - Updated the brand of CPU 'Intel i9' old brand: 'Danieliaus BRANDAS BLYN' to 'Danieliaus BRANDAS BLYN'.
+2023-07-24 20:04:40 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:04:40 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:04:40 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:04:40 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:04:40 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:04:40 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:04:40 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:04:40 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:04:40 - INFO - main.py - Updated the brand of CPU 'Intel i9' old brand: 'Intel' to 'Danieliaus BRANDAS BLYN'.
+2023-07-24 20:06:19 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:06:19 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:06:19 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:06:19 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:06:19 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:06:19 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:06:19 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:06:19 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:06:19 - INFO - main.py - Updated the brand of CPU 'Intel i9' old brand: 'Intel' to 'Danieliaus BRANDAS BLYN'.
+2023-07-24 20:06:38 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:06:38 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:06:38 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:06:38 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:06:38 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:06:38 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:06:38 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:06:38 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:06:38 - INFO - main.py - Updated the brand of CPU 'Intel i9' old brand: 'Intel' to 'Danieliaus BRANDAS BLYN'.
+2023-07-24 20:08:15 - INFO - main.py - Added Intel i7 to the database.
+2023-07-24 20:08:15 - INFO - main.py - Added AMD Ryzen 5 to the database.
+2023-07-24 20:08:15 - INFO - main.py - Added Nvidia RTX 3080 to the database.
+2023-07-24 20:08:15 - INFO - main.py - Added AMD Radeon RX 6800 to the database.
+2023-07-24 20:08:15 - INFO - main.py - Updated the price of Intel i7 to 3000.
+2023-07-24 20:08:15 - WARNING - main.py - GTX 650 not found in the database.
+2023-07-24 20:08:15 - WARNING - main.py - Part 'AMD Ryzen 5' already exists in the database.
+2023-07-24 20:08:15 - INFO - main.py - Added Intel i9 to the database.
+2023-07-24 20:08:15 - INFO - main.py - Updated the brand of CPU 'Intel i9' old brand: 'Intel' to 'Danieliaus BRANDAS BLYN'.
