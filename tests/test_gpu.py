@@ -1,5 +1,5 @@
 import unittest
-from main import GPU
+from pc_part import GPU
 
 
 class TestGPU(unittest.TestCase):

@@ -1,5 +1,6 @@
 import unittest
-from main import PCPartDatabase, CPU, GPU
+from pc_part import CPU, GPU
+from pc_part_db import PCPartDatabase
 from error_exception import PartNotFoundError, DuplicatePartError
 
 

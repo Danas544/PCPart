@@ -1,5 +1,5 @@
 import unittest
-from main import CPU
+from pc_part import CPU
 
 
 class TestCPU(unittest.TestCase):
