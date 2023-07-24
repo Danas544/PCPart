@@ -1,5 +1,5 @@
 import unittest
-from main import PCPartDatabase, CPU ,GPU 
+from main import PCPartDatabase, CPU, GPU
 
 
 class TestPCPartDatabase(unittest.TestCase):
@@ -30,7 +30,6 @@ class TestPCPartDatabase(unittest.TestCase):
     def test_get_all_parts(self):
         all_parts = self.database.get_all_parts()
         self.assertEqual(len(all_parts), 4)
-
 
 
 if __name__ == "__main__":

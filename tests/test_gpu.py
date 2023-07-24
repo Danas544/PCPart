@@ -2,7 +2,6 @@ import unittest
 from main import GPU
 
 
-
 class TestGPU(unittest.TestCase):
     def test_get_brand(self):
         gpu = GPU("Nvidia RTX 3080", 800, "Nvidia", "10GB")
