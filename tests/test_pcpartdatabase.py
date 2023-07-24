@@ -53,5 +53,6 @@ class TestPCPartDatabase(unittest.TestCase):
         part = self.database.get_part(part_name)
         self.assertIsNone(part)
 
+
 if __name__ == "__main__":
     unittest.main()
