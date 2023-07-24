@@ -1,5 +1,6 @@
 import unittest
 from main import PCPartDatabase, CPU, GPU
+from error_exception import PartNotFoundError, DuplicatePartError
 
 
 class TestPCPartDatabase(unittest.TestCase):
@@ -24,8 +25,10 @@ class TestPCPartDatabase(unittest.TestCase):
         self.assertEqual(cpu.get_price(), 300)
 
     def test_get_part_not_exist(self):
-        part = self.database.get_part("no part")
-        self.assertIsNone(part)
+        with self.assertRaises(PartNotFoundError) as cm:
+            self.database.get_part("no part")
+        exception = cm.exception
+        self.assertEqual(str(exception), "Part 'no part' not found in the database.")
 
     def test_get_all_parts(self):
         all_parts = self.database.get_all_parts()
@@ -34,24 +37,24 @@ class TestPCPartDatabase(unittest.TestCase):
     def test_update_part_price_existing(self):
         part_name = "Intel i7"
         new_price = 320.0
-
-        cpu = self.database.get_part(part_name)
-        original_price = cpu.get_price()
-
         self.database.update_part_price(part_name, new_price)
-
-        updated_cpu = self.database.get_part(part_name)
-        self.assertEqual(updated_cpu.get_price(), new_price)
-        self.assertNotEqual(updated_cpu.get_price(), original_price)
+        cpu = self.database.get_part(part_name)
+        self.assertEqual(cpu.get_price(), new_price)
 
     def test_update_part_price_nonexistent(self):
         part_name = "No Part"
         new_price = 400.0
+        with self.assertRaises(PartNotFoundError) as cm:
+            self.database.update_part_price(part_name, new_price)
+        exception = cm.exception
+        self.assertEqual(str(exception), "Part 'No Part' not found in the database.")
 
-        self.database.update_part_price(part_name, new_price)
-
-        part = self.database.get_part(part_name)
-        self.assertIsNone(part)
+    def test_add_part_duplicate(self):
+        cpu3 = CPU("AMD Ryzen 5", 260.0, "AMD", "3.7 GHz", "90W")
+        with self.assertRaises(DuplicatePartError) as cm:
+            self.database.add_part(cpu3)
+        exception = cm.exception
+        self.assertEqual(str(exception), "Part 'AMD Ryzen 5' already exists in the database.")
 
 
 if __name__ == "__main__":

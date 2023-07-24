@@ -14,7 +14,7 @@
 import logging
 import logging.config
 from typing import Optional, List, Union
-
+from error_exception import PartNotFoundError, DuplicatePartError
 
 logging.config.fileConfig("logging_config.ini", disable_existing_loggers=False)
 
@@ -87,13 +87,19 @@ class PCPartDatabase:
         self.parts = {}
 
     def add_part(self, part: Union[CPU, GPU]) -> None:
-        self.parts[part.get_name()] = part
-        logger.info(f"Added {part.get_name()} to the database.")
+        part_name = part.get_name()
+        if part_name in self.parts:
+            logger.warning(f"Part '{part_name}' already exists in the database.")
+            raise DuplicatePartError(f"Part '{part_name}' already exists in the database.")
+        self.parts[part_name] = part
+        logger.info(f"Added {part_name} to the database.")
 
     def get_part(self, name: str) -> Optional[Union[CPU, GPU]]:
-        part = self.parts.get(name, None)
-        if not part:
+        try:
+            part = self.parts[name]
+        except KeyError:
             logger.warning(f"{name} not found in the database.")
+            raise PartNotFoundError(f"Part '{name}' not found in the database.")
         return part
     
 
@@ -119,23 +125,38 @@ if __name__ == "__main__":
     gpu2 = GPU("AMD Radeon RX 6800", 700, "AMD", "16GB")
     database.add_part(gpu1)
     database.add_part(gpu2)
+    try:
+        cpu = database.get_part("Intel i7")
+        if cpu:
+            print(
+                f"CPU: {cpu.get_name()}, Brand: {cpu.get_brand()}, Price: {cpu.get_price()}"
+            )
 
-    cpu = database.get_part("Intel i7")
-    if cpu:
-        print(
-            f"CPU: {cpu.get_name()}, Brand: {cpu.get_brand()}, Price: {cpu.get_price()}"
-        )
+        all_parts = database.get_all_parts()
+        for part in all_parts:
+            print(f"{part.get_name()}, Price: {part.get_price()}")
 
-    all_parts = database.get_all_parts()
-    for part in all_parts:
-        print(f"{part.get_name()}, Price: {part.get_price()}")
-
-    database.update_part_price(name="Intel i7", new_price=3000)
+        database.update_part_price(name="Intel i7", new_price=3000)
+    except PartNotFoundError as e:
+        print(f'Error: {e}')
 
     print(
         f"CPU: {cpu.get_name()}, Brand: {cpu.get_brand()}, NEW Price: {cpu.get_price()}"
     )
 
-gpu = database.get_part("no gpu")
-if gpu:
-    print(f"GPU: {gpu.get_name()}, Brand: {gpu.get_brand()}")
+
+
+    try:
+        gpu = database.get_part("GTX 650")
+        if gpu:
+            print(f"GPU: {gpu.get_name()}, Brand: {gpu.get_brand()}")
+    except PartNotFoundError as e:
+        print(f'Error: {e}')
+
+    try:
+        cpu3 = CPU("AMD Ryzen 5", 250, "AMD", "3.8 GHz", "85W")
+        database.add_part(cpu3)
+    except DuplicatePartError as e:
+        print(f'Error: {e}')
+
+
